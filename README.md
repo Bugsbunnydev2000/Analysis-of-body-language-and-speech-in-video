@@ -1,6 +1,8 @@
 # Analysis-of-body-language-and-speech-in-video
 Analysis of body language and speech in video with LLMs
 
+Document : https://grateful-starflower-54e.notion.site/Analysis-of-body-language-and-speech-in-video-14fd0ec5e5f88019b570db005617e65e
+
 **Analysis of Body Language and Speech in Video with LLMs**
 
 This project analyzes body language and speech in video files using Large Language Models (LLMs). It extracts audio from videos, transcribes the speech, and then uses AI models for both text and body language analysis. The tool combines video processing, speech-to-text conversion, and advanced language analysis for comprehensive insights.
