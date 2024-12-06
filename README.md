@@ -3,6 +3,10 @@ Analysis of body language and speech in video with LLMs
 
 Document : https://grateful-starflower-54e.notion.site/Analysis-of-body-language-and-speech-in-video-14fd0ec5e5f88019b570db005617e65e
 
+model for Video processing (Gemini)docs : https://ai.google.dev/gemini-api/docs
+
+model for Audio processing and audio to text conversion(whisper) : https://platform.openai.com/docs/models#whisper
+
 **Analysis of Body Language and Speech in Video with LLMs**
 
 This project analyzes body language and speech in video files using Large Language Models (LLMs). It extracts audio from videos, transcribes the speech, and then uses AI models for both text and body language analysis. The tool combines video processing, speech-to-text conversion, and advanced language analysis for comprehensive insights.
