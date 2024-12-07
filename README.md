@@ -63,6 +63,9 @@ python main.py
 Examples folder and file :
 In the sample folder, all the examples are ready
 
+with GUI : 
+![Screenshot 2024-12-07 170616](https://github.com/user-attachments/assets/69c3f13d-e4cf-4b22-8257-308a23949005)
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Communication with developers:
 
