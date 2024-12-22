@@ -73,5 +73,5 @@ x(twitter) : https://x.com/Bugsbuuny2010
 
 E-mail : dev.bugsbunny2000@gmail.com
 
-Discord server to ask questions : https://discord.gg/6kVCyy6h
+
 
